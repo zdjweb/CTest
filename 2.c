@@ -7,6 +7,7 @@
 请填写该日期，格式为 yyyy-mm-dd 即4位年份2位月份2位日期。比如：2015-02-19
 请严格按照格式书写。不能出现其它文字或符号。
 */
+/*
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
@@ -37,3 +38,4 @@ int main() {
 	printf_s("%d-%02d-%02d\n", year, month, day);
 	return 0;
 }
+*/
